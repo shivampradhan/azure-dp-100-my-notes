@@ -1,5 +1,5 @@
 # azure-dp-100-my-notes
-i have attached my notes from official documentation and notebooks and added them in 1 pdf and 3 notebooks 
+i have attached my notes for the azure data scientist associate (dp-100) from official documentation and notebooks and added them in 1 pdf and 3 notebooks 
 
 # Official Source 
 this is the official page of dp-100 exam
