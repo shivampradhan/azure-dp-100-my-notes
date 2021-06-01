@@ -1,11 +1,11 @@
 # azure-dp-100-my-notes
 
 
-# Official source 
+# Official Source 
 
 https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100
 
-## official courses
+## official Courses
 
 * https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/
 * https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
@@ -13,13 +13,13 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100
 * https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/
 
 
-# other courses
+# Other Courses
 
 * https://www.udemy.com/course/machine-learning-using-azureml/
 * https://app.pluralsight.com/paths/certificate/microsoft-exam-dp-100-designing-and-implementing-a-data-science-solution-on-azure
 
 
-# Free dumps to use 
+# Free Dumps To use 
 
 * https://www.gratisexam.com/microsoft/dp-100-exam/
 * https://www.itexams.com/exam/DP-100
